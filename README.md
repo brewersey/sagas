@@ -4,7 +4,7 @@ http://www.sagadb.org/index_az
 http://www.voluspa.org/voluspa.htm
 http://www.voluspa.org/
 https://www.gutenberg.org/files/598/598-h/598-h.htm
-https://www.snerpa.is/net/snorri/heimskri.htm' #icelandic
+https://www.snerpa.is/net/snorri/heimskri.htm
 http://www.voluspa.org/havamal.htm
 http://lexicon.ff.cuni.cz/etc/aa_texts.html
 http://linguist.is/icelandic_treebank/Download
