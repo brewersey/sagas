@@ -1,4 +1,4 @@
-These notebooks contain the code used to identify the authors of unknown sagas.  The saga text were acquired from:
+These notebooks contain the code used to identify the authors of unknown sagas (https://brewersey.github.io/).  The saga text were acquired from:
 
 http://www.sagadb.org/index_az
 
